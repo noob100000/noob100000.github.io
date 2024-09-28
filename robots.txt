@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://noob100000.github.io./sitemap.xml
+Sitemap: https://noob100000.github.io/sitemap.xml
